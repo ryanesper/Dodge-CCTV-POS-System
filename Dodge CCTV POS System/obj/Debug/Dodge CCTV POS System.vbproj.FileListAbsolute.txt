@@ -1,0 +1,26 @@
+C:\Users\ryan\AppData\Local\Temporary Projects\Dodge CCTV POS System\bin\Debug\Dodge CCTV POS System.exe.config
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\bin\Debug\Dodge CCTV POS System.exe.config
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\bin\Debug\Dodge CCTV POS System.exe
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\bin\Debug\Dodge CCTV POS System.pdb
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\bin\Debug\Dodge CCTV POS System.xml
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\bin\Debug\MySql.Data.DLL
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmadminregistration.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmchooseitemsandpersonel.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmdatabaseconnector.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmlogin.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmmain.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmoperationsprintpreview.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmproduct.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmretailprice.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmselectfromstocks.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.frmsolditem.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge_CCTV_POS_System.Resources.resources
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.exe
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.xml
+D:\Programming\VB.NET\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.pdb
+D:\Programming\VB.NET\Systems\Dodge CCTV POS System\Dodge CCTV POS System\bin\Debug\Dodge CCTV POS System.exe.config
+D:\Programming\VB.NET\Systems\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.exe
+D:\Programming\VB.NET\Systems\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.xml
+D:\Programming\VB.NET\Systems\Dodge CCTV POS System\Dodge CCTV POS System\obj\Debug\Dodge CCTV POS System.pdb
